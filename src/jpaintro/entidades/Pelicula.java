@@ -26,6 +26,7 @@ public class Pelicula {
     private String autor;
     private String atrib1;
     private String atrib2;
+    private String valentina;
 
     public Pelicula() {
     }
