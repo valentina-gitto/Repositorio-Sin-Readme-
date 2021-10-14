@@ -24,6 +24,7 @@ public class Pelicula {
     private Double duracion;
     private String titulo;
     private String autor;
+    private String atrib1;
 
     public Pelicula() {
     }
